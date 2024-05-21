@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "V/h6P+B/B9cbLKotlbLmOcwJmLdsmdOF0t6ICLXykZtCyJDphQEU4Q2YDoJds/JwBxXuUnPf2BXZDdIApg5fAQ==",
+  "success": true,
+  "projectFilePath": "/home/wilson/Documentos/senai/codificaBackEnd/_SENAI/Atividade/Atividade.csproj",
+  "expectedPackageFiles": [
+    "/home/wilson/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "/home/wilson/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/7.0.15/microsoft.netcore.app.runtime.linux-x64.7.0.15.nupkg.sha512",
+    "/home/wilson/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "/home/wilson/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/7.0.15/microsoft.aspnetcore.app.runtime.linux-x64.7.0.15.nupkg.sha512",
+    "/home/wilson/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.15/microsoft.netcore.app.host.linux-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
